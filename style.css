@@ -196,6 +196,9 @@ background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
     font-size: 1.5rem;
     margin-right: 2rem;
     margin-bottom:3rem ;
+    border: 2px solid #dfd9d9;
+    border-radius: 2rem;
+    box-shadow: 2px 2px 2px black,-2px -2px 2px white;
     padding: 0.5rem;  
     position: relative;
     animation: mediamove 4s ease  forwards; 
@@ -211,26 +214,7 @@ left: 200px;
     }
 }
 
-.social-media a i:first-child {
-   
-    border-radius:2rem ;
-    border: 2px solid #dfd9d9;
-    box-shadow: 2px 2px 2px black,-2px -2px 2px white;
-}
 
-.social-media a:last-child i{
-   
-    border: 2px solid #dfd9d9;
-     border-radius: 2rem;
-     box-shadow: 2px 2px 2px black,-2px -2px 2px white;
-
- }
- .social-media a :nth-child(2){
-    
-    border: 2px solid #dfd9d9;
-        border-radius: 2rem;
-        box-shadow: 2px 2px 2px black,-2px -2px 2px white;
- }
  .social-media i:hover{
 
 font-size: 2rem;
