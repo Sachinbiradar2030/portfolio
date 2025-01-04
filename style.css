@@ -648,6 +648,7 @@ justify-content: start;
         width: 70vw;
         height: 40vh;
         justify-content: end;
+         margin-top: 2rem;
         /* border: 2px solid black; */  
     }
     .p-img img{
